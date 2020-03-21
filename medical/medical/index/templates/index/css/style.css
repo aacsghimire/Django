@@ -1,0 +1,9 @@
+
+.container{
+    height: 90px;
+}
+
+nav ul{
+    text-align: center;
+    display: inline-block;
+}
